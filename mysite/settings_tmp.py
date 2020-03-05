@@ -130,3 +130,5 @@ EMAIL_HOST_USER = 'kuangwei@i-yin.com.cn'
 EMAIL_HOST_PASSWORD = 'Kuangw@123'
 # 注册有效期天数
 CONFIRM_DAYS = 7
+
+###
